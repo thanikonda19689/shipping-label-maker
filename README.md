@@ -25,4 +25,5 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### Deployment
 
 Heroku cloud has been used for hosting the application.
+
 Heorku integration with Github enables us to auto-deploy a new version of this app for every push to master branch.
